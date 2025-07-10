@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zurghani
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning AWS
+#- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on prjects that use JS/TS
 - 📫 How to reach me *[LinkedIn](https://www.linkedin.com/in/abdozurghani/)*
 <!---
